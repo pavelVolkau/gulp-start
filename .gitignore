@@ -1,0 +1,7 @@
+# Ignoring gulp
+node_modules/
+gulpfile.js
+package.json
+package-lock.json
+# Ignoring plugin`s VScode
+.jshintrc
